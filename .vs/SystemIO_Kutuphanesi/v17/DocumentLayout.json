@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A72F4096-7563-4D8E-A80D-BD7ADE299C9B}|SystemIO_Kutuphanesi_Nedir\\SystemIO_Kutuphanesi_Nedir.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\systemio_kutuphanesi\\systemio_kutuphanesi_nedir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72F4096-7563-4D8E-A80D-BD7ADE299C9B}|SystemIO_Kutuphanesi_Nedir\\SystemIO_Kutuphanesi_Nedir.csproj|solutionrelative:systemio_kutuphanesi_nedir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA817135-5E93-4DB8-B8C0-76E7681D3CA4}|8-Stream_Sinifi\\8-Stream_Sinifi.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\systemio_kutuphanesi\\8-stream_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA817135-5E93-4DB8-B8C0-76E7681D3CA4}|8-Stream_Sinifi\\8-Stream_Sinifi.csproj|solutionrelative:8-stream_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B7A05B-9083-4B88-B0A9-EA5DC739AB74}|7-FileStream_Sinifi\\7-FileStream_Sinifi.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\systemio_kutuphanesi\\7-filestream_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B7A05B-9083-4B88-B0A9-EA5DC739AB74}|7-FileStream_Sinifi\\7-FileStream_Sinifi.csproj|solutionrelative:7-filestream_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95329D26-4832-4D2E-AE22-AD1BD173D29D}|6-Path_Sinifi\\6-Path_Sinifi.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\systemio_kutuphanesi\\6-path_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95329D26-4832-4D2E-AE22-AD1BD173D29D}|6-Path_Sinifi\\6-Path_Sinifi.csproj|solutionrelative:6-path_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46344EF5-D99C-4970-9BAD-29A5669BC0B6}|1-File_Sinifi\\1-File_Sinifi.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\systemio_kutuphanesi\\1-file_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46344EF5-D99C-4970-9BAD-29A5669BC0B6}|1-File_Sinifi\\1-File_Sinifi.csproj|solutionrelative:1-file_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1202172-4B57-4F8C-8340-ACEC992AB34C}|5-DriveInfo_Sinifi\\5-DriveInfo_Sinifi.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\systemio_kutuphanesi\\5-driveinfo_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1202172-4B57-4F8C-8340-ACEC992AB34C}|5-DriveInfo_Sinifi\\5-DriveInfo_Sinifi.csproj|solutionrelative:5-driveinfo_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A07700-2B21-4CB1-B406-CEC77D7AB5D3}|4-DirectoryInfo_Sinifi\\4-DirectoryInfo_Sinifi.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\systemio_kutuphanesi\\4-directoryinfo_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A07700-2B21-4CB1-B406-CEC77D7AB5D3}|4-DirectoryInfo_Sinifi\\4-DirectoryInfo_Sinifi.csproj|solutionrelative:4-directoryinfo_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7B96A8-5118-401D-99ED-99914FE2C3F0}|3-Directory_Sinifi\\3-Directory_Sinifi.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\systemio_kutuphanesi\\3-directory_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7B96A8-5118-401D-99ED-99914FE2C3F0}|3-Directory_Sinifi\\3-Directory_Sinifi.csproj|solutionrelative:3-directory_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475204F8-B6B3-4E68-A582-C30359437730}|2-FileInfo_Sinifi\\2-FileInfo_Sinifi.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\systemio_kutuphanesi\\2-fileinfo_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475204F8-B6B3-4E68-A582-C30359437730}|2-FileInfo_Sinifi\\2-FileInfo_Sinifi.csproj|solutionrelative:2-fileinfo_sinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\8-Stream_Sinifi\\Program.cs",
+              "RelativeDocumentMoniker": "8-Stream_Sinifi\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\8-Stream_Sinifi\\Program.cs",
+              "RelativeToolTip": "8-Stream_Sinifi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:08:26.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\7-FileStream_Sinifi\\Program.cs",
+              "RelativeDocumentMoniker": "7-FileStream_Sinifi\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\7-FileStream_Sinifi\\Program.cs",
+              "RelativeToolTip": "7-FileStream_Sinifi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:58:05.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\6-Path_Sinifi\\Program.cs",
+              "RelativeDocumentMoniker": "6-Path_Sinifi\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\6-Path_Sinifi\\Program.cs",
+              "RelativeToolTip": "6-Path_Sinifi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:46:34.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\5-DriveInfo_Sinifi\\Program.cs",
+              "RelativeDocumentMoniker": "5-DriveInfo_Sinifi\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\5-DriveInfo_Sinifi\\Program.cs",
+              "RelativeToolTip": "5-DriveInfo_Sinifi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:41:10.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\4-DirectoryInfo_Sinifi\\Program.cs",
+              "RelativeDocumentMoniker": "4-DirectoryInfo_Sinifi\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\4-DirectoryInfo_Sinifi\\Program.cs",
+              "RelativeToolTip": "4-DirectoryInfo_Sinifi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:01:05.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\3-Directory_Sinifi\\Program.cs",
+              "RelativeDocumentMoniker": "3-Directory_Sinifi\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\3-Directory_Sinifi\\Program.cs",
+              "RelativeToolTip": "3-Directory_Sinifi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:53:12.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\2-FileInfo_Sinifi\\Program.cs",
+              "RelativeDocumentMoniker": "2-FileInfo_Sinifi\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\2-FileInfo_Sinifi\\Program.cs",
+              "RelativeToolTip": "2-FileInfo_Sinifi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:36:52.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\1-File_Sinifi\\Program.cs",
+              "RelativeDocumentMoniker": "1-File_Sinifi\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\1-File_Sinifi\\Program.cs",
+              "RelativeToolTip": "1-File_Sinifi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:45:14.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\SystemIO_Kutuphanesi_Nedir\\Program.cs",
+              "RelativeDocumentMoniker": "SystemIO_Kutuphanesi_Nedir\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\SystemIO_Kutuphanesi\\SystemIO_Kutuphanesi_Nedir\\Program.cs",
+              "RelativeToolTip": "SystemIO_Kutuphanesi_Nedir\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:05:06.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

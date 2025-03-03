@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\bin\Debug\net8.0\2-FileInfo_Sinifi.exe
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\bin\Debug\net8.0\2-FileInfo_Sinifi.deps.json
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\bin\Debug\net8.0\2-FileInfo_Sinifi.runtimeconfig.json
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\bin\Debug\net8.0\2-FileInfo_Sinifi.dll
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\bin\Debug\net8.0\2-FileInfo_Sinifi.pdb
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\obj\Debug\net8.0\2-FileInfo_Sinifi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\obj\Debug\net8.0\2-FileInfo_Sinifi.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\obj\Debug\net8.0\2-FileInfo_Sinifi.AssemblyInfo.cs
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\obj\Debug\net8.0\2-FileInfo_Sinifi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\obj\Debug\net8.0\2-FileInfo_Sinifi.sourcelink.json
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\obj\Debug\net8.0\2-FileInfo_Sinifi.dll
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\obj\Debug\net8.0\refint\2-FileInfo_Sinifi.dll
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\obj\Debug\net8.0\2-FileInfo_Sinifi.pdb
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\obj\Debug\net8.0\2-FileInfo_Sinifi.genruntimeconfig.cache
+C:\Users\pc\Desktop\Çalışmalarım\SystemIO_Kutuphanesi\2-FileInfo_Sinifi\obj\Debug\net8.0\ref\2-FileInfo_Sinifi.dll
